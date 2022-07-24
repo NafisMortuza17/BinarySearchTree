@@ -1,0 +1,19 @@
+﻿My name is Nafis
+I like to watch anime and code
+this is a test for my text concordance program
+Nafis appears twice
+
+
+
+
+
+
+
+
+
+
+
+newword appears here C++
+
+
+help
